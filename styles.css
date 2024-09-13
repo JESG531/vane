@@ -1,0 +1,30 @@
+/* Estilos básicos para la página */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Color de fondo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://i.pinimg.com/originals/0d/e1/de/0de1dee3a4ebf4e87e7e25f2593f693c.gif'); /* Imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    text-align: center;
+}
+
+/* Estilos para el contenedor */
+.container {
+    background: rgba(255, 255, 255, 0.8); /* Fondo blanco con opacidad */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el texto */
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
